@@ -245,6 +245,9 @@ ul.social li .fa:hover{
     #About button{
         width: 50%;
     }
+    .skills-bar{
+        width: 90%;
+    }
     #services h1{
         font-size: 25px;
     }
