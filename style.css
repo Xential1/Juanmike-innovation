@@ -25,7 +25,7 @@ body{
     width: 45%;
 }
 .fa-bars{
-    margin-top: 10px;
+    margin-top: 5px;
     font-size: 25px;
 }
 .fa-bars:active{
@@ -41,9 +41,18 @@ body{
     margin-top: 10px;
 }
 /*----about us*/
+#abutit{
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(img/Aboutus.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 70vh;
+}
 #About{
     margin-top: 20px;
 }
+
 #About h1{
     text-align: center !important;
 }
@@ -61,6 +70,7 @@ body{
     margin-top: 17px;
     margin-left: 15px;
 }
+
 
 /*----services----*/
 #services{
@@ -174,6 +184,23 @@ body{
     margin: 10px;
     color: #007bff;
     font-weight: bold;
+}
+.loctation{
+    width: 80%;
+    margin: auto;
+    padding: 80px 0;
+}
+.loctation iframe{
+    width: 100%;
+}
+
+.sub-header{
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(img/Contact-Us-HERO.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   background-position: center;
+   height: 70vh;
 }
 #footer{
     background: lightyellow;
