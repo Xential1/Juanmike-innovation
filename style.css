@@ -230,7 +230,7 @@ ul.social li .fa:hover{
 }
 @media(max-width: 700px){
     .navbar-brand img{
-        width: 30%;
+        width: 50%;
     }
     #navbarNav li a{
         font-size: 15px;
